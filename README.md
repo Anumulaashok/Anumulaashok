@@ -16,11 +16,11 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **JAVA**
 
-- 🔭 I’m currently working on **UNSPLASH**
+- 🔭 I’m currently working on **Youtube (Api)**
 
 - 👯 I’m looking to collaborate on **Group Projects include Ajile**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]((https://github.com/Anumulaashok))**
+- 👨‍💻 Sum of my projects are available at **[My Portfolio](anumulaashokportfolio.netlify.app)**
 
 - 📫 How to reach me **anumualaashok85@gmail.com**
 
