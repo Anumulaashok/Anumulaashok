@@ -57,7 +57,7 @@ You can click the Preview link to take a look at your changes.
 ## Connect with me:
 <p align="left">
 
-<a href = "www.linkedin.com/in/ashoksmart143"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/ashoksmart143/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/ashoksmart_u_r_heart/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 <h2>Have a Look 😜</h2>
