@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ## 🙋‍♂️ About Me
-<img align="right" height="auto" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/b41e1e27075137.5635f8edb514a.gif"/>
+<img align="right" height="250px" width="400px" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/b41e1e27075137.5635f8edb514a.gif"/>
 
 -  👀 I’m interested in **learning and sharing the knowledge**
 
