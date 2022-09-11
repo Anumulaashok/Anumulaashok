@@ -10,7 +10,9 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">I'm a Backend Developer from Telangana,India.</h3>
 
 
+
 ## 🙋‍♂️ About Me
+<img align="right" height="auto" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/b41e1e27075137.5635f8edb514a.gif"/>
 
 -  👀 I’m interested in **learning and sharing the knowledge**
 
@@ -49,7 +51,7 @@ You can click the Preview link to take a look at your changes.
 <br/>
 <br/>
 
-<a href="https://github.com/anumulaashok/github-readme-activity-graph"><img alt="Anumula Ashok Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Anumulaashok&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anumulaashok&" alt="AnumulaAshok" /></p>
 
 <br/>
 <br/>
