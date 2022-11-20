@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **JAVA**
 
-- 🔭 I’m currently working on **Youtube (Api)**
+- 🔭 I’m currently working on **E-commerce web app Backend**
 
 - 👯 I’m looking to collaborate on **Group Projects include Ajile**
 
