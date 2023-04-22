@@ -16,11 +16,11 @@ You can click the Preview link to take a look at your changes.
 
 -  👀 I’m interested in **learning and sharing the knowledge**
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently working in **REVLITIX**
 
-- 🔭 I’m currently working on **E-commerce web app Backend**
+- 🔭 I’m currently working as a **Backend Developer**
 
-- 👯 I’m looking to collaborate on **Group Projects include Ajile**
+- 👯 I’m looking to learn more on **Web app development with new Strategies**
 
 - 👨‍💻 Sum of my projects are available at **[My Portfolio](https://github.com/Anumulaashok)**
 
