@@ -28,7 +28,7 @@
 <!-- GitHub stats -->
 <h3 align="center">📈 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashok-revlitix&show_icons=true&theme=vue" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anumulaashok&show_icons=true&theme=vue" alt="GitHub Stats" />
 </p>
 
 <br>
@@ -36,7 +36,7 @@
 <!-- Top languages -->
 <h3 align="center">🌟 Top Languages</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashok-revlitix&layout=compact&theme=vue" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anumulaashok&layout=compact&theme=vue" alt="Top Languages" />
 </p>
 
 <br>
